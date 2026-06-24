@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.75ab333c.css",
+    "main.js": "./static/js/main.7c479505.js",
+    "static/js/206.11150726.chunk.js": "./static/js/206.11150726.chunk.js",
+    "static/media/bg-info@2x.png": "./static/media/bg-info@2x.2657978b0e54cd8894d5.png",
+    "static/media/banner-group-public-default.png": "./static/media/banner-group-public-default.af8a15a9dd22b3e1d734.png",
+    "static/media/banner-user-default.png": "./static/media/banner-user-default.f8e99e75f7402c4dae58.png",
+    "static/media/banner-brand-default.png": "./static/media/banner-brand-default.853be605e8ad0eac7451.png",
+    "static/media/einstein-figure.svg": "./static/media/einstein-figure.f6a78f192a2366d352a1.svg",
+    "static/media/account-filtered-descendants.svg": "./static/media/account-filtered-descendants.3c880f36d1b651fe1405f1ec3fe166a4.svg",
+    "static/media/new_account.svg": "./static/media/new_account.3eedc0814bc0ae7e0e75f900b8c6a4a1.svg",
+    "static/media/einstein-header-background.svg": "./static/media/einstein-header-background.10588db1a3e88dae560b.svg",
+    "static/media/measure-row-filtered-descendants.svg": "./static/media/measure-row-filtered-descendants.ba0e83b352a2975739b687f585096411.svg",
+    "static/media/category-filtered-descendants.svg": "./static/media/category-filtered-descendants.389f42b9f27b4faa0c61123187541360.svg",
+    "static/media/product.svg": "./static/media/product.d97197ff837f25f7c3a58668cfd32345.svg",
+    "static/media/measure-row.svg": "./static/media/measure-row.3f754bbb5eb6baa53afbd0d2dae2e4c7.svg",
+    "static/media/category.svg": "./static/media/category.304a2c02b4f5822b5150ab0cf2956db6.svg",
+    "static/media/sort.svg": "./static/media/sort.040f2364f89152815a8ed74f327eabc9.svg",
+    "static/media/approval-stamp.svg": "./static/media/approval-stamp.f9f8d782ea1fdbc4462dca12f8516934.svg",
+    "index.html": "./index.html",
+    "static/media/logo-noname.svg": "./static/media/logo-noname.5724638fe830080a8f43.svg"
+  },
+  "entrypoints": [
+    "static/css/main.75ab333c.css",
+    "static/js/main.7c479505.js"
+  ]
+}
