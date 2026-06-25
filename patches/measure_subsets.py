@@ -26,6 +26,8 @@ EDITS = [
      '"aria-label":"Measure subset options"'),
     ('children:"Select measure category:"}',
      'children:"Select measure subset:"}'),
+    ('Se(!0)},children:"Configure"',
+     'Se(!0)},children:"Configure Measures"'),
     ('multiple categories, select a category to change its context.',
      'multiple subsets, select a subset to change its context.'),
     ('"All measure categories":0===t.length?"No measure categories"',
@@ -33,7 +35,7 @@ EDITS = [
     # --- behavior: don't narrow to config selectedMeasureIds; show all of subset ---
     ('a.length>0&&(e=a,i=!0)', 'a.length>0&&(i=!1)'),
     ('if(R(e),E(e),i)P(new Set(o));else{const e=new Set(Array.from(No).filter(e=>o.includes(e)));P(e.size>0?e:new Set(o))}',
-     'R(e),E(e),P(new Set(o))'),
+     'R(e),E(e),P(new Set(o));'),
 ]
 
 
